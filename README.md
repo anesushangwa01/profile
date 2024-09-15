@@ -12,7 +12,7 @@ Software Developer | Full-Stack Web Developer | Mean Stack Developer
 
 -I am detail-oriented and focused on building secure, functional solutions that improve user experience, and I’m always eager to learn new technologies and grow as a developer.
 
-## Persornal Project
+## Persornal Projects
 - Booking System for Hotels and Taxis: [bookingApp](https://bookingapk.netlify.app)
 - Product Management System: [productManagement](https://expire02.netlify.app)
 
